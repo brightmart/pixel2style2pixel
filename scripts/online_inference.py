@@ -33,7 +33,7 @@ experiment_type = 'toonify'
 # Step 2: Download Pretrained Models
 # download petrained model
 #def get_download_model_command(file_id, file_name):
-    """ Get wget download command for downloading the desired model and save to directory ../pretrained_models. """
+#    """ Get wget download command for downloading the desired model and save to directory ../pretrained_models. """
 #    current_directory = os.getcwd()
 #    save_path = os.path.join(os.path.dirname(current_directory), CODE_DIR, "pretrained_models")
 #    if not os.path.exists(save_path):
